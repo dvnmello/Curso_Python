@@ -9,5 +9,4 @@ if media >= 7:
         print(f'Aprovado com Distinção! Parabéns, você alcançou a nota máxima: {media}')
 elif media < 7:
     print (f'Reprovado, Infelizmente não atingiu a média. Sua nota foi:  {media}')
-#elif media == 10:
-#    print(f'Aprovado com Distinção! Parabéns, você alcançou a nota máxima: {media}')
+
